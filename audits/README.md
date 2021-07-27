@@ -3,7 +3,7 @@
 The following folder contains all public audit reports.
 
 ## Tinlake
-* Version 0.4.0 - Dapp.org.uk Lender Audit - July 2021 - [Report](https://dapp.org.uk/reports/tinlake.html) - [Local](dapp-org-tinlake-lender.html)
+* Version 0.3.5 - Dapp.org.uk Lender Audit - July 2021 - [Report](https://dapp.org.uk/reports/tinlake.html) - [Local](tinlake/dapp-org-tinlake-lender.html)
 * Version 0.3.0 - Least Authority - October 2020 – [Report](https://leastauthority.com/static/publications/LeastAuthority_Centrifuge_Tinlake_0.3.0_Audit_Report.pdf) - [Local](tinlake/LA-Tinlake-Audit-v0.3.0.pdf)
 * Version 0.2.5 - Least Authority - April 2020 - [Report](https://leastauthority.com/static/publications/LeastAuthority_Centrifuge_Tinlake_Contracts_Actions_Audit_Report.pdf) - [Local](tinlake/LA-Tinlake-Audit-v0.2.5.pdf)
 
