@@ -7,7 +7,7 @@ The following folder contains all public audit reports.
 * SRLabs - September 2023 - [Local](liquidity-pools/2023-09-SRLabs.pdf)
 * Code4rena - September 2023 - [Report](https://code4rena.com/reports/2023-09-centrifuge) - [Local](liquidity-pools/2023-09-Code4rena.md)
 
-## Chain
+## Centrifuge Chain
 * SRLabs - September 2022 - [Report](https://securityresearchlabs.sharepoint.com/sites/Centrifuge/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FCentrifuge%2FFreigegebene%20Dokumente%2FGeneral%2F0%2Ddeliverables%2FSRL%2Dcentrifuge%5Fbaseline%5Fassurance%2Dreport%2Donline%2Dv2%2E3%2Epdf&parent=%2Fsites%2FCentrifuge%2FFreigegebene%20Dokumente%2FGeneral%2F0%2Ddeliverables&p=true&ga=1) - [Local](chain/SRLabs-baseline-report_2022.pdf)
 * Least Authority - April 2020 - [Report](https://leastauthority.com/static/publications/LeastAuthority_Centrifuge_Chain_Audit_Report.pdf) - [Local](chain/LA-Centrifuge-Chain.pdf)
 * Consensys Dilligence - ChainBridge Audit April 2020 - [Report](https://consensys.net/diligence/audits/private/adash47d-chainbridge/chainbridge-audit-2020-04.pdf) - [Local](bridge/chainbridge-audit-2020-04.pdf)
