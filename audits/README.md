@@ -2,6 +2,20 @@
 
 The following folder contains all public audit reports.
 
+## Protocol
+
+* Electisec – Spoke/Vaults - June 2025 - [Report](https://docs.centrifuge.io/developer/protocol/security/audits/electisec-spoke-vaults-june-2025.pdf)
+* Macro – Merkle Proof Manager - June 2025 - [Report](https://0xmacro.com/library/audits/centrifuge-1.html)
+* Spearbit – V3.0 - May 2025 -  [Report](https://docs.centrifuge.io/developer/protocol/security/audits/spearbit-v3-may-2025.pdf)
+* burraSec – Gateway - May 2025 - [Local](https://docs.centrifuge.io/developer/protocol/security/audits/burrasec-gateway-may-2025.pdf)
+* xmxanuel – V3.0 - May 2025 - [Report](https://docs.centrifuge.io/developer/protocol/security/audits/xmxanuel-v3-may-2025.pdf)
+* Alex the Entreprenerd – V3.0 - April 2025 - [Report](https://docs.centrifuge.io/developer/protocol/security/audits/alex-v3-april-2025.pdf)
+* burraSec – Gateway - April 2025 -  [Report part 1](https://docs.centrifuge.io/developer/protocol/security/audits/burrasec-gateway-april-2025-part1.pdf) - [Report part 2](https://docs.centrifuge.io/developer/protocol/security/audits/burrasec-gateway-april-2025-part2.pdf)
+* xmxanuel – V3.0 - March 2025 - [Report](https://docs.centrifuge.io/developer/protocol/security/audits/xmxanuel-v3-march-2025.pdf)
+* Spearbit – V2.1 - February 2025 - [Report](https://docs.centrifuge.io/developer/protocol/security/audits/spearbit-v2-1-february-2025.pdf)
+* Recon – V2.0 - January 2025 - [Report](https://docs.centrifuge.io/developer/protocol/security/audits/recon-v2-january-2025.pdf)
+
+
 ## Liquidity Pools
 * Spearbit - July 2024 - [Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Centrifuge-Spearbit-Security-Review-July-2024.pdf) - [Local](liquidity-pools/2024-07-Spearbit.pdf)
 * Spearbit (Cantina Managed) - October 2023 - [Local](liquidity-pools/2023-10-Spearbit-Cantina-Managed.pdf)
